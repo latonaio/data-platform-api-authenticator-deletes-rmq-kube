@@ -1,0 +1,1 @@
+# data-platform-api-authenticator-deletes-rmq-kube
